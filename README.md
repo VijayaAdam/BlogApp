@@ -1,4 +1,4 @@
-# Blog REST API
+# Blog REST API Application
 
 ---
 
